@@ -1,6 +1,6 @@
 class Config(object):
 
-    SECRET_KEY = 'peacemaker'
+    SECRET_KEY = 'pianalytix'
 
     SESSION_COOKIE_SECURE = True
     DEFAULT_THEME = None
